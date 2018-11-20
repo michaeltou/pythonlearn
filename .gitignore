@@ -1,3 +1,5 @@
 *.idel
 .idea
 .idea/*
+data/*
+listings.csv
